@@ -1,9 +1,9 @@
 	;
-	; BASIC interpreter
+	; TinyBASIC interpreter
         ;
         ; http://nanochess.org/
         ;
-        ; (c) Copyright 2019 Oscar Toledo G.
+        ; (c) Copyright 2019 Oscar Toledo G. and DiamondCoder1000
         ;
         ; Creation date: Jul/19/2019.
 	;
