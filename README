@@ -1,12 +1,12 @@
- _                 _  ______  ___   _____ _____ _____ 
-| |               | | | ___ \/ _ \ /  ___|_   _/  __ \
-| |__   ___   ___ | |_| |_/ / /_\ \\ `--.  | | | /  \/
-| '_ \ / _ \ / _ \| __| ___ \  _  | `--. \ | | | |    
-| |_) | (_) | (_) | |_| |_/ / | | |/\__/ /_| |_| \__/\
-|_.__/ \___/ \___/ \__\____/\_| |_/\____/ \___/ \____/
 
-bootBASIC interpreter in 512 bytes (boot sector or COM file)
-by Oscar Toledo G. Jul/22/2019
+
+
+TinyBASIC
+
+
+
+TinyBASIC interpreter in 512 bytes (boot sector or COM file)
+by Oscar Toledo G. and DiamondCider1000 Jul/22/2019
 
 http://nanochess.org
 https://github.com/nanochess
