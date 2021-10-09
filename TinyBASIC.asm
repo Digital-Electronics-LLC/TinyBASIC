@@ -1,7 +1,7 @@
         ;
-        ; bootBASIC interpreter in 512 bytes (boot sector)
+        ; TinyBASIC interpreter in 512 bytes (boot sector)
         ;
-        ; by Oscar Toledo G.
+        ; by Oscar Toledo G. and DiamondCoder1000
         ; http://nanochess.org/
         ;
         ; (c) Copyright 2019-2020 Oscar Toledo G.
